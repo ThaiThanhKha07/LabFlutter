@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:flutter/foundation.dart';
 import '../screen.dart';
 
-
 class CartScreen extends StatelessWidget {
   static const routeName = '/cart';
   const CartScreen({super.key});
