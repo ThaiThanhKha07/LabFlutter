@@ -34,7 +34,6 @@ class ProductGridTile extends StatelessWidget {
     );
   }
 
-
   Widget buildGridFooterBar(BuildContext context) {
     return GridTileBar(
       backgroundColor: Colors.black87,

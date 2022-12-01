@@ -4,6 +4,7 @@ import '../../models/product.dart';
 import 'package:provider/provider.dart';
 import '../screen.dart';
 
+
 class CartManager with ChangeNotifier {
   Map<String, CartItem> _items = {
     'p1': CartItem(

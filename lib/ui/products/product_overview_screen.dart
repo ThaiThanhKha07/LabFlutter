@@ -6,6 +6,7 @@ import 'top_right_badge.dart';
 import '../screen.dart';
 import 'package:provider/provider.dart';
 
+
 enum FilterOptions { favorite, all }
 
 class ProductsOverviewScreen extends StatefulWidget {
