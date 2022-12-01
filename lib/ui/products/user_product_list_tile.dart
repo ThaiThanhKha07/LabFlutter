@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import '../screen.dart';
 import '../../models/product.dart';
 
-
 class UserProductListTile extends StatelessWidget {
   final Product product;
 

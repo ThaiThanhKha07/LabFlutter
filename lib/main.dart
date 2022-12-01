@@ -6,7 +6,6 @@ import 'package:provider/provider.dart';
 import 'package:flutter/foundation.dart';
 import 'ui/products/edit_product_screen.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
